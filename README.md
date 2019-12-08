@@ -44,10 +44,14 @@ In `mytemplate.tex`:
  - serif：浅色背景，灰色衬线文字
  - simple：白色背景，黑色文字
  - solarized：奶油色背景，深青色文字
+ - [mozilla-devrel-light](https://github.com/delapuente/presentations/blob/gh-pages/lib/reveal/css/theme/mozilla-devrel-light.css)
+ - [mozilla-devrel-dark](https://github.com/delapuente/presentations/blob/gh-pages/lib/reveal/css/theme/mozilla-devrel-dark.css)
 
 ## Reference 
 
  - [Mac下用markdown+markdown写slide - 知乎](https://zhuanlan.zhihu.com/p/20166339)
  - [Markdown+pandoc+reveal.js做网页PPT - 简书](https://www.jianshu.com/p/9b71614f57b1)
+ - [Reveal.js：把你的 Markdown 文稿变成 PPT - 少数派](https://sspai.com/post/40657)
+ - [Pandoc中使用Reveal.js制作幻灯片 - 简书](https://www.jianshu.com/p/0e0abc6feeb3)
 
 
