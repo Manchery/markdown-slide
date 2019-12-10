@@ -37,6 +37,8 @@ In `mytemplate.tex`:
 
 ### Theme of reveal.js
 
+Use `-V theme=<theme>` for pandoc
+
  - default：深灰色背景，白色文字
  - beige：米色背景，深色文字
  - sky：天蓝色背景，白色细文字
